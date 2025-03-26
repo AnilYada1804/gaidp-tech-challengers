@@ -14,7 +14,12 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Regulatory reporting in the banking sector involves compiling vast amounts of data to meet
+compliance requirements.
+Data profiling is a critical part of this process, ensuring that reported data aligns with regulatory
+requirements.
+Traditionally, this process is manual and time-consuming. This solution automates data profiling
+using Generative AI (LLMs) and unsupervised machine learning
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
